@@ -1,2 +1,0 @@
-# BucciFirm
-The staging grounds
